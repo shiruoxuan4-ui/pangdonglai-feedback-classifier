@@ -1,0 +1,92 @@
+[
+  {
+    "category": "商品质量",
+    "sentiment": "负面",
+    "priority": "高",
+    "suggested_action": "立即联系门店核实，24 小时内回访，必要时启动商品下架或抽检",
+    "reason": "命中关键词[发霉、不新鲜]，情绪=负面",
+    "method": "规则兜底",
+    "text": "买的水果不新鲜，芒果有发霉的，希望加强检查"
+  },
+  {
+    "category": "服务态度",
+    "sentiment": "正面",
+    "priority": "低",
+    "suggested_action": "记录为正面案例，用于内部激励与宣传",
+    "reason": "命中关键词[态度、贴心、收银]，情绪=正面",
+    "method": "规则兜底",
+    "text": "收银员态度特别好，帮我装袋还送我到门口，很贴心"
+  },
+  {
+    "category": "商品质量",
+    "sentiment": "负面",
+    "priority": "高",
+    "suggested_action": "立即联系门店核实，24 小时内回访，必要时启动商品下架或抽检",
+    "reason": "命中关键词[异味]，情绪=负面",
+    "method": "规则兜底",
+    "text": "今天生鲜区的海鲜有异味，不敢买"
+  },
+  {
+    "category": "价格",
+    "sentiment": "负面",
+    "priority": "中",
+    "suggested_action": "转采购/定价部门核查，3 个工作日内回复说明",
+    "reason": "命中关键词[贵、价格]，情绪=负面",
+    "method": "规则兜底",
+    "text": "这个价格有点贵了，比外面贵不少"
+  },
+  {
+    "category": "商品缺货",
+    "sentiment": "负面",
+    "priority": "中",
+    "suggested_action": "转补货/采购，反馈到货时间并登记需求",
+    "reason": "命中关键词[卖完]，情绪=负面",
+    "method": "规则兜底",
+    "text": "想买的网红面包又卖完了，连续三次没买到"
+  },
+  {
+    "category": "卫生",
+    "sentiment": "正面",
+    "priority": "低",
+    "suggested_action": "记录为正面案例，用于内部激励与宣传",
+    "reason": "命中关键词[干净]，情绪=正面",
+    "method": "规则兜底",
+    "text": "地面很干净，货架也整齐，逛着很舒服"
+  },
+  {
+    "category": "服务态度",
+    "sentiment": "负面",
+    "priority": "中",
+    "suggested_action": "转门店主管，当天回访道歉并反馈改进",
+    "reason": "命中关键词[态度、冷漠、导购]，情绪=负面",
+    "method": "规则兜底",
+    "text": "酸奶区的导购态度很冷漠，问也不理人"
+  },
+  {
+    "category": "其他",
+    "sentiment": "中性",
+    "priority": "低",
+    "suggested_action": "登记归档，作为改进建议参考",
+    "reason": "命中关键词[无]，情绪=中性",
+    "method": "规则兜底",
+    "text": "建议多进一些无糖饮料，选择太少了"
+  },
+  {
+    "category": "价格",
+    "sentiment": "正面",
+    "priority": "低",
+    "suggested_action": "记录为正面案例，用于内部激励与宣传",
+    "reason": "命中关键词[价格、实惠]，情绪=正面",
+    "method": "规则兜底",
+    "text": "熟食区的鸡腿很好吃，价格也实惠，回购好几次"
+  },
+  {
+    "category": "卫生",
+    "sentiment": "负面",
+    "priority": "高",
+    "suggested_action": "立即联系门店核实，当天安排卫生整改/消杀，24 小时内回访",
+    "reason": "命中关键词[卫生间、卫生]，情绪=负面",
+    "method": "规则兜底",
+    "text": "卫生间的卫生情况需要改进，有异味"
+  }
+]
